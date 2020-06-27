@@ -1,0 +1,39 @@
+{
+  "name": "favid-list",
+  "description": "Favorite Videos List",
+  "version": "1.0",
+  "manifest_version": 2,
+  "content_scripts": [
+      {
+          "matches": [
+            "https://www.youtube.com/*"
+          ],
+          "css": [
+              "./theme.css"
+          ],
+          "js": [
+              "./scripts/content.js"
+          ]
+      }
+  ],
+  "background": {
+      "page": "background.html",
+      "persistent": false
+  },
+  "browser_action": {
+      "default_icon": "logo512.png",
+      "default_title": "Favid-List"
+  },
+  "icons": {
+    "48": "logo48.png",
+    "128": "favicon.ico",
+    "192": "logo192.png",
+   "512": "logo512.png"
+  },
+  "permissions": [
+    "<all_urls>",
+    "tabs",
+    "storage"
+  ],
+  "content_security_policy": "script-src 'self' 'unsafe-eval' https://www.gstatic.com/firebasejs/5.3.0/firebase.js; object-src 'self'"
+}

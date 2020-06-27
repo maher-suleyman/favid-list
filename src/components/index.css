@@ -1,0 +1,130 @@
+/* Header Section */
+#header-light {
+    font-size: 1.75em;
+    background: #d3d3d3;
+}
+
+#header-dark {
+    font-size: 1.75em;
+    background: #6d6d6d;
+}
+
+
+
+
+/* Body Section */
+#body {
+    display: flex;
+    height:auto;
+    justify-content: center;
+    text-align: center;
+}
+
+#left-side-light {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: #aebccc;
+    width: 25%;
+    float: left;
+    color: rgb(63, 63, 63);
+}
+
+#left-side-dark {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: #000000;
+    width: 25%;
+    float: left;
+    color: seashell;
+}
+
+#videosContainer-light {
+    width: 75%;
+    float: right;
+}
+
+#videosContainer-dark {
+    width: 75%;
+    float: right;
+    background: slategrey;
+}
+
+#videosContainer-dark > * {
+    background: slategrey;
+}
+
+#videos-style {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+
+#rating-star {
+    width: 20px;
+}
+
+#btn {
+    font-size: 0.75em;
+    font-weight: 900;
+    padding: 1px 10px;
+}
+
+
+
+
+/* Footer Section */
+.contact-icon {
+    height: 25px;
+    height: 25px;
+}
+
+
+
+
+/* Visibility Section */
+#visibility-visible {
+    visibility: visible;
+}
+
+#visibility-hidden {
+    visibility: hidden;
+    height: 0;
+}
+
+
+
+/* List Menu Style */
+#videos-list {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+} 
+#videos-list td, #videos-list th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+#videos-list tr:nth-child(even){
+    background-color: #f2f2f2;
+}
+#videos-list tr:hover {
+    background-color: #ddd;
+}
+#videos-list th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+}
+
+
+
+/* Film Tape Style */
+#film-tape {
+    background-color: white;
+    background-repeat: repeat-x;
+    background-image: url("../images/film_tape.png");
+    height: 20px;
+    background-size: 30px 20px;
+}
+
