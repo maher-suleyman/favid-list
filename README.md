@@ -33,5 +33,4 @@ npm install<hr/>
 <b>2-</b> I'm new to React and this is the first React JS app for me.<br/>
 <b>3-</b> If you faced any problem with launching the app locally just delete "node_modules" folder and then run the command (npm install).
 
-![alt text](preview.gif)
 
