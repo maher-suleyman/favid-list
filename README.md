@@ -5,6 +5,8 @@ This project is an app to make a list of favorite videos on YouTube using React 
 <b>1-</b> Firebase project app, where the data will be saved.<br/>
 <b>2-</b> List of dependencies that I will list below.<hr/>
 
+![alt text](preview.gif)<hr/>
+
 # Used Dependencies:
 npm install --save firebase<br/>
 npm install react-bootstrap bootstrap<br/>
