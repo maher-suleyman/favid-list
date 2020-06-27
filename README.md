@@ -27,5 +27,6 @@ npm install<hr/>
 
 # Notes:
 <b>1-</b> You can host the app in any platform you want instead of hosting locally by using (npm start), and in this case you have to edit the app and replace every (http://localhost:3000/) with the new URL, after that you have to build the app again by the command (npm run build) and finally refresh the extension in chrome settings in (chrome://extensions/).<br/>
-<b>2-</b> I'm new to React and this is the first React JS app for me.
+<b>2-</b> I'm new to React and this is the first React JS app for me.<br/>
+<b>3-</b> If you faced any problem with launching the app locally just delete "node_modules" folder and then run the command (npm install).
 
