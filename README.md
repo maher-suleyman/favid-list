@@ -1,12 +1,19 @@
-# favid-list (app & chrome extension) version 1.0
-This project is an app to make a list of favorite videos on YouTube using React JS, Google Chrome extension, and Firebase.
+# Favid-List App & Chrome Extension
+This app & Chrome extension built using React JS to create a list of the favorite videos on YouTube.
+
+# Preview:
+<img src="preview.gif" alt="preview" width="100%"/><hr/>
+
+# Description:
+<ul>
+    <li>It uses Google Firebase to save these videos info.</li>
+    <li>It benefits from React to effectively rendering while browsing, deleting, archiving, or rating the videos.</li>
+    <li>The extension uses JavaScript and Chrome techniques to manipulate the DOM to add the videos from YouTube.</li>
+</ul>
 
 # Requirments:
 <b>1-</b> Firebase project app, where the data will be saved.<br/>
 <b>2-</b> List of dependencies that I will list below.<hr/>
-
-# Preview:
-<img src="preview.gif" alt="preview" width="100%"/><hr/>
 
 # Used Dependencies:
 npm install --save firebase<br/>
