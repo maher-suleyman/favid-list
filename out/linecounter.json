@@ -1,0 +1,338 @@
+{
+    "extension": "linecounter",
+    "version": "0.2.7",
+    "workspace": "c:\\Users\\maher\\Desktop\\Front-end projects\\favid-list",
+    "linecount": [
+        {
+            "version": "0.2.7",
+            "counttime": "2020-10-16 23:42:11",
+            "filesum": 45,
+            "codesum": 27189,
+            "commentsum": 207,
+            "blanksum": 2478,
+            "statistics": {
+                ".css": {
+                    "code": 181,
+                    "comment": 6,
+                    "blank": 38
+                },
+                ".js": {
+                    "code": 1615,
+                    "comment": 140,
+                    "blank": 183
+                },
+                ".md": {
+                    "code": 34,
+                    "comment": 2,
+                    "blank": 8
+                },
+                ".txt": {
+                    "code": 3,
+                    "comment": 1,
+                    "blank": 0
+                },
+                ".json": {
+                    "code": 15414,
+                    "comment": 0,
+                    "blank": 6
+                },
+                ".html": {
+                    "code": 32,
+                    "comment": 23,
+                    "blank": 1
+                },
+                ".lock": {
+                    "code": 9910,
+                    "comment": 35,
+                    "blank": 2242
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 0,
+                    "code": 15338,
+                    "comment": 0,
+                    "filename": "package-lock.json"
+                },
+                {
+                    "blank": 2,
+                    "code": 41,
+                    "comment": 0,
+                    "filename": "package.json"
+                },
+                {
+                    "filename": "preview.gif",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 1,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "public\\background.html"
+                },
+                {
+                    "filename": "public\\favicon.ico",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 20,
+                    "comment": 23,
+                    "filename": "public\\index.html"
+                },
+                {
+                    "filename": "public\\logo192.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "public\\logo48.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "public\\logo512.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 4,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "public\\manifest.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 1,
+                    "filename": "public\\robots.txt"
+                },
+                {
+                    "blank": 7,
+                    "code": 79,
+                    "comment": 17,
+                    "filename": "public\\scripts\\background.js"
+                },
+                {
+                    "blank": 35,
+                    "code": 202,
+                    "comment": 54,
+                    "filename": "public\\scripts\\content.js"
+                },
+                {
+                    "blank": 6,
+                    "code": 68,
+                    "comment": 0,
+                    "filename": "public\\theme.css"
+                },
+                {
+                    "blank": 8,
+                    "code": 34,
+                    "comment": 2,
+                    "filename": "README.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "src\\App.css"
+                },
+                {
+                    "blank": 11,
+                    "code": 147,
+                    "comment": 1,
+                    "filename": "src\\App.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "src\\App.test.js"
+                },
+                {
+                    "blank": 9,
+                    "code": 83,
+                    "comment": 4,
+                    "filename": "src\\components\\AllVideos.js"
+                },
+                {
+                    "blank": 9,
+                    "code": 83,
+                    "comment": 4,
+                    "filename": "src\\components\\Archive.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 101,
+                    "comment": 0,
+                    "filename": "src\\components\\Footer.js"
+                },
+                {
+                    "blank": 5,
+                    "code": 82,
+                    "comment": 0,
+                    "filename": "src\\components\\Header.js"
+                },
+                {
+                    "blank": 29,
+                    "code": 95,
+                    "comment": 6,
+                    "filename": "src\\components\\index.css"
+                },
+                {
+                    "blank": 11,
+                    "code": 99,
+                    "comment": 2,
+                    "filename": "src\\components\\LeftSidebar.js"
+                },
+                {
+                    "blank": 9,
+                    "code": 83,
+                    "comment": 4,
+                    "filename": "src\\components\\Rating.js"
+                },
+                {
+                    "blank": 9,
+                    "code": 83,
+                    "comment": 4,
+                    "filename": "src\\components\\Search.js"
+                },
+                {
+                    "blank": 9,
+                    "code": 83,
+                    "comment": 4,
+                    "filename": "src\\components\\UnViewed.js"
+                },
+                {
+                    "blank": 20,
+                    "code": 129,
+                    "comment": 1,
+                    "filename": "src\\components\\VideoBoard.js"
+                },
+                {
+                    "blank": 18,
+                    "code": 146,
+                    "comment": 1,
+                    "filename": "src\\components\\VideoList.js"
+                },
+                {
+                    "blank": 9,
+                    "code": 83,
+                    "comment": 4,
+                    "filename": "src\\components\\Viewed.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 15,
+                    "comment": 2,
+                    "filename": "src\\firebaseConfig.js"
+                },
+                {
+                    "filename": "src\\images\\board.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\images\\favid-icon.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\images\\film_tape.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\images\\github-icon.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\images\\linkedin-icon.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\images\\list.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\images\\moon.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\images\\star.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\images\\sun.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 1,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "src\\index.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 13,
+                    "comment": 3,
+                    "filename": "src\\index.js"
+                },
+                {
+                    "blank": 15,
+                    "code": 95,
+                    "comment": 31,
+                    "filename": "src\\serviceWorker.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 4,
+                    "filename": "src\\setupTests.js"
+                },
+                {
+                    "blank": 2242,
+                    "code": 9910,
+                    "comment": 35,
+                    "filename": "yarn.lock"
+                }
+            ]
+        }
+    ]
+}
